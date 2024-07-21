@@ -12,8 +12,8 @@
 #--include-from
 #--exclude
 
-src=../../../lw/project
-dst=../../../lwd
+src=../../../leeway/project
+dst=../../../leeway-designer
 
 mkdir $dst/engine
 mkdir $dst/game
