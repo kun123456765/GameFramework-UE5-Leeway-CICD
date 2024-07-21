@@ -1,0 +1,8 @@
+.vs/
+.vs*
+.git/
+.git*
+*.pdb
+*.debug
+*.dsym
+*.target

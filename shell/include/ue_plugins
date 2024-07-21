@@ -1,0 +1,17 @@
+*/
+*.exe
+*.dll
+*.modules
+*.uplugins
+
+Config/*
+Config/**/*
+
+Content/*
+Content/**/*
+
+Resources/*
+Resources/**/*
+
+Shaders/*
+Shaders/**/*
